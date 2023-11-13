@@ -20,8 +20,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
-I am 4th year CS student BMSTU:)
-I`m study Go backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I`m 4th year CS student BMSTU:)
+I`m studing Go backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m study CS in university and dream to become Go Senior backend developer and create reliable and scalable services.
 
