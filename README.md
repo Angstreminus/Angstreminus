@@ -23,7 +23,7 @@
 I`m 4th year CS student BMSTU:)
 I`m studing Go backend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m study CS in university and dream to become Go Senior backend developer and create reliable and scalable services.
+- :telescope: I study CS in university and dream to become Go Senior backend developer and create reliable and scalable services.
 
 - :seedling: Reading books & playing chess.
 
